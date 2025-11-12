@@ -1,4 +1,4 @@
-# Cyber security com Python
+# Cybersecurity com Python
 Dois mini projetos de código, um visando demonstrar como seria um ransomware e outro um keylogger em python.
 ## encryption (ransomware)
 Contém 2 códigos, um para criptografar e outro para descriptografar os arquivos dentro da pasta "reallyimportantfiles", além de criar um arquivo com mensagem de "resgate" dos arquivos criptografados.
