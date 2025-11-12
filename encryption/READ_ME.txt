@@ -1,1 +1,0 @@
-Your files have been encrypted! To recover them, please contact us at gatinhoDaora@meow.miau.poliglot
